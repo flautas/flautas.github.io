@@ -29,10 +29,6 @@ La civilización caral se le considera como la más antigua de América. En el c
   
 La arqueóloga Ruth Shady descubrió los instrumentos en el sitio arqueológico de La Ciudad Sagrada de Caral-Supe. De acuerdo con las hipótesis de Ruth Shady y otros arqueólogos, los instrumentos fueron depositados bajo el piso de la plaza circular en la Pirámide del Anfiteatro (mire figure 1). Fueron ofrendas para rituales religiosos o ceremonias sociales. Por eso, estos instrumentos son evidencia de que la música tenía una función importante en esta sociedad. También los habitantes de Caral crearon actividades sociales y culturales complejas hace cinco mil años. 
 
-Los instrumentos antiguos incluián 32 flautas traversas y 3 flautas de pan que se llaman zampoñas. Las flautas eran hechas de huesos de las aves como cóndores y pelícanos. El tamaño de las flautas es de aproximadamente dieciséis centímetros, parecido a flautas modernas. También, se descubrieron cornetas hechas de huesos de venados y llamas. Lamentablemente, de acuerdo con los arqueólogos, las flautas pertenecerían a las élites en la sociedad porque fueron halladas en un ritual de entierro debajo de la pirámide. No todas las personas tenián acceso a los instrumentos por igual. 
-
-En resumen, los instrumentos de caral evidencian la complejidad y diversidad de la civilización caral que tiene cinco mil años de antigüedad. El uso de instrumentos, en especial el uso de las flautas tiene una historia muy antigua que se preserva hasta hoy. 
-
 <p align="center">
   <img src="/assets/img/p3_f1a.jpg" alt="" width="50%">
 </p>
@@ -44,3 +40,9 @@ En resumen, los instrumentos de caral evidencian la complejidad y diversidad de 
 </p>
 
 <p align="center"><b>Figure 4:</b> Una diagrama esquemático de el Anfiteatro de Caral. </p>
+
+Los instrumentos antiguos incluián 32 flautas traversas y 3 flautas de pan que se llaman zampoñas. Las flautas eran hechas de huesos de las aves como cóndores y pelícanos. El tamaño de las flautas es de aproximadamente dieciséis centímetros, parecido a flautas modernas. También, se descubrieron cornetas hechas de huesos de venados y llamas. Lamentablemente, de acuerdo con los arqueólogos, las flautas pertenecerían a las élites en la sociedad porque fueron halladas en un ritual de entierro debajo de la pirámide. No todas las personas tenián acceso a los instrumentos por igual. 
+
+En resumen, los instrumentos de caral evidencian la complejidad y diversidad de la civilización caral que tiene cinco mil años de antigüedad. El uso de instrumentos, en especial el uso de las flautas tiene una historia muy antigua que se preserva hasta hoy. 
+
+[![Video Title](https://img.youtube.com/vi/UTHDyP7689k/0.jpg)](https://www.youtube.com/watch?v=UTHDyP7689k&t=264s)
