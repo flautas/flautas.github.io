@@ -54,8 +54,13 @@ En resumen, los instrumentos de caral evidencian la complejidad y diversidad de 
 
 
 **Fuentes**
+
 [1] Huaringa, C. D. S. (2015). Los primeros instrumentos musicales precolombinos: la flauta de pan andina o la “antara”. Arqueología y sociedad, 29, 461-494.
+
 [2] Shady Solís, Ruth, et al. "Las flautas de Caral-Supe: aproximaciones al estudio acústico-arqueológico del conjunto de flautas más antiguo de América." Bol. Mus. Arqueol. Antropol. Univ. Nac. Mayor San Marcos 11 (2000): 2-9.
+
 [3] Shady, R., Haas, J., & Creamer, W. (2000). La ciudad sagrada de Caral-Supe en los albores de la civilización en el Perú. Revista de Antropología, 11, 125-153. Retrieved from https://sisbib.unmsm.edu.pe/bibvirtualdata/publicaciones/antropologia/2000_n11/a01.pdf
+
 [4] UNESCO World Heritage Centre. (n.d.). Sacred City of Caral-Supe. Retrieved November 11, 2024, from https://whc.unesco.org/en/list/1269/
+
 [5] Smithsonian Magazine. (2005, June 6). First city in the new world. Smithsonian Magazine. Retrieved November 11, 2024, from https://www.smithsonianmag.com/history/first-city-in-the-new-world-66643778/
