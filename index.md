@@ -37,7 +37,7 @@ En resumen, los instrumentos de caral evidencian la complejidad y diversidad de 
   <img src="/assets/img/p3_f1a.jpg" alt="" width="50%">
 </p>
 
-<p align="center"><b>Figure 3:</b>  En la foto de la izquierda, se puede ver el anfiteatro y un pirámide. </p>
+<p align="center"><b>Figure 3:</b>  En la foto, se puede ver el anfiteatro y un pirámide. </p>
 
 <p align="center">
   <img src="/assets/img/p3_f1b.png" alt="" width="90%">
