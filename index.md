@@ -81,5 +81,7 @@ En resumen, los instrumentos de Caral evidencian la complejidad y diversidad de 
 Somos *Olenka*, *Qiwei* y *Jiayi*, de Español 101, sección C01.
 
 **Olenka Jain:** Yo soy una estudiante de doctorado en Princeton. Estudio biofísica en la universidad de Princeton. Quiero aprender mas de civilizaciones en Sudamérica y el rol de musica en los civilizaciones mas mayores. Soy un violonchelista y mucho me gusta tocar el violonchelo. Pienso que musica tiene la habilidad conectar personas y culturas muy diferentes. Quiero aprender mas de las personas de Caral y que tipo de musica ellos tocan. Tambien quiero aprender el rol de musica para ellos. 
+
 **Qiwei Yu:** Soy un estudiante de doctorado en biofísica en la universidad de Princeton. Quiero investigar las culturas en Sudamérica y en el mundo hispánico. 
+
 **Jiayi Zhang:** Yo soy una estudiante de doctorado en la universidad de Princeton. Estudio la neurociencia computacional. En mis ratos libres, me gusta leer libros sobre historias. En especial, me gusta aprender prácticas antiguas en culturas diferentes en todo el mundo. Quiero investigar cómo las gentes en Sudamérica usaron artefacto cultural en sus vidas.
