@@ -27,8 +27,6 @@ La música de Perú es famosa en todo el mundo, en particular la música de flau
 
 La civilización caral se le considera como la más antigua de América. En el centro de la civilización fue La Ciudad Sagrada de Caral-Supe. La ciudad tiene cinco mil años de antigüedad. Era grande y populosa. La ciudad tenía una arquitectura diversa y monumenta. Por ejemplo, habóa seis grandes estructuras piramidales de hasta 30m de altura. También hubo varias plazas templos, y anfiteatros. Por eso, la ciudad permitió el intercambio de culturas, productos y poblaciones de los varios lugares en la civilización caral. 
   
-Figura 1:En la foto de la izquierda, se puede ver el anfiteatro y un pirámide. En la de la derecha, se puede ver una diagrama esquemático de el Anfiteatro de Caral. 
-
 La arqueóloga Ruth Shady descubrió los instrumentos en el sitio arqueológico de La Ciudad Sagrada de Caral-Supe. De acuerdo con las hipótesis de Ruth Shady y otros arqueólogos, los instrumentos fueron depositados bajo el piso de la plaza circular en la Pirámide del Anfiteatro (mire figure 1). Fueron ofrendas para rituales religiosos o ceremonias sociales. Por eso, estos instrumentos son evidencia de que la música tenía una función importante en esta sociedad. También los habitantes de Caral crearon actividades sociales y culturales complejas hace cinco mil años. 
 
 Los instrumentos antiguos incluián 32 flautas traversas y 3 flautas de pan que se llaman zampoñas. Las flautas eran hechas de huesos de las aves como cóndores y pelícanos. El tamaño de las flautas es de aproximadamente dieciséis centímetros, parecido a flautas modernas. También, se descubrieron cornetas hechas de huesos de venados y llamas. Lamentablemente, de acuerdo con los arqueólogos, las flautas pertenecerían a las élites en la sociedad porque fueron halladas en un ritual de entierro debajo de la pirámide. No todas las personas tenián acceso a los instrumentos por igual. 
@@ -39,7 +37,7 @@ En resumen, los instrumentos de caral evidencian la complejidad y diversidad de 
   <img src="/assets/img/p3_f1a.jpg" alt="" width="50%">
 </p>
 
-<p align="center"><b>Figure 3:</b>  El anfiteatro y un pirámide.</p>
+<p align="center"><b>Figure 3:</b>  En la foto de la izquierda, se puede ver el anfiteatro y un pirámide. </p>
 
 <p align="center">
   <img src="/assets/img/p3_f1b.png" alt="" width="90%">
