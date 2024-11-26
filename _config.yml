@@ -1,6 +1,7 @@
 title: Las flautas del valle Caral, Peru 
 logo: /assets/img/p2_f1.png
 description: Jiayi Zhang, Qiwei Yu, Olenka Jain
-show_downloads: true
+show_downloads: false
+github.is_user_page: false
 google_analytics:
 theme: jekyll-theme-minimal
