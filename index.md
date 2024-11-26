@@ -45,10 +45,14 @@ Los instrumentos antiguos incluián 32 flautas traversas y 3 flautas de pan que 
 
 En resumen, los instrumentos de caral evidencian la complejidad y diversidad de la civilización caral que tiene cinco mil años de antigüedad. El uso de instrumentos, en especial el uso de las flautas tiene una historia muy antigua que se preserva hasta hoy. 
 
-[![VIDEO TUTORIAL CARAL, UN MUNDO POR DESCUBRIR PARA FLAUTAS DE CARAL](https://img.youtube.com/vi/UTHDyP7689k/0.jpg)](https://www.youtube.com/watch?v=UTHDyP7689k)
-**VIDEO TUTORIAL CARAL, UN MUNDO POR DESCUBRIR PARA FLAUTAS DE CARAL**
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=UTHDyP7689k">
+    <img src="https://img.youtube.com/vi/UTHDyP7689k/0.jpg" alt="Un vídeo tutorial sobre cómo tocar la flauta" style="border: none;" />
+  </a>
+  <p>Un vídeo tutorial sobre cómo tocar la flauta</p>
+</div>
 
-Fuentes
+**Fuentes**
 [1] Huaringa, C. D. S. (2015). Los primeros instrumentos musicales precolombinos: la flauta de pan andina o la “antara”. Arqueología y sociedad, 29, 461-494.
 [2] Shady Solís, Ruth, et al. "Las flautas de Caral-Supe: aproximaciones al estudio acústico-arqueológico del conjunto de flautas más antiguo de América." Bol. Mus. Arqueol. Antropol. Univ. Nac. Mayor San Marcos 11 (2000): 2-9.
 [3] Shady, R., Haas, J., & Creamer, W. (2000). La ciudad sagrada de Caral-Supe en los albores de la civilización en el Perú. Revista de Antropología, 11, 125-153. Retrieved from https://sisbib.unmsm.edu.pe/bibvirtualdata/publicaciones/antropologia/2000_n11/a01.pdf
