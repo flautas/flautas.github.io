@@ -2,15 +2,15 @@
 layout: default
 ---
 ## ¿Por qué elegimos este objeto?
-Nosotros elegimos este objeto porque es un objeto de la civilización más antigua en Sudamérica. Este objecto también es un instrumento musical. Pensamos que es muy interesante estudiar la música de una cultura de hace 5000 años y queremos aprender que material personas de Caral usan para hacer instrumentos. También queremos aprender la función de instrumentos musicales en la cultural de Caral. Estas flautas tambien son interesantes porque tienen diseñas con monos y pájaros y serpientes y personas. Esto nos indica que monos y pájaros y serpientes son importante para los personas en Caral.
+Nosotros elegimos este objeto porque es un objeto de la civilización más antigua en Sudamérica. Este objecto también es un instrumento musical. Pensamos que es muy interesante estudiar la música de una cultura de hace 5000 años y queremos aprender que material las personas de Caral usan para hacer instrumentos. También queremos aprender la función de instrumentos musicales en la cultural de Caral. Estas flautas también son interesantes porque tienen diseños con monos y pájaros y serpientes y personas. Esto nos indica que monos y pájaros y serpientes son importante para las personas en Caral.
 
 ## País y sociedad de origen
 
-País de origen es Peru, en el valle de Caral. Caral es en el Norte de Peru y en la costa de Peru. La sociedad es más antigua civilización en Sudamérica y se llama “la civilización del valle Caral.” Las personas primeras en Caral viven allá en el año 3500 BC!
+País de origen es Perú, en el valle de Caral. Caral está en el Norte de Perú y en la costa de Perú. La sociedad es más antigua civilización en Sudamérica y se llama “la civilización del valle Caral.” Los primeros habitantes en Caral viven allá en el año 3500 BC!
 
 ## Nuestros objetivos
 
-Estas flautas representa las personas que viven en el valle de Caral y los arqueológicos piensan que este objetos son muy importantes para ceremonias. La civilización de Caral existe en el periodo “ante Columbiano” y los arqueológicas no encuentran cerámicos en Caral. Solamente encuentran cerámicos en civilizaciones más tarde en Peru. Por eso, las flautas son objetos muy importante y son pruebas de vida en Caral. 
+Estas flautas representa las personas que viven en el valle de Caral y los arqueólogos piensan que este objetos son muy importantes para ceremonias. La civilización de Caral existe en el periodo “precolombino” y los arqueológicas no encuentran cerámicos en Caral. Solamente encuentran cerámicas en civilizaciones más tarde en Perú. Por eso, las flautas son objetos muy importante y son pruebas de vida en Caral. 
 
 ## La descripción de las flautas
 
@@ -80,7 +80,7 @@ En resumen, los instrumentos de Caral evidencian la complejidad y diversidad de 
 
 Somos *Olenka*, *Qiwei* y *Jiayi*, de Español 101, sección C01.
 
-**Olenka Jain:** Yo soy una estudiante de doctorado en Princeton. Estudio biofísica en la universidad de Princeton. Quiero aprender mas de civilizaciones en Sudamérica y el rol de musica en los civilizaciones mas mayores. Soy un violonchelista y mucho me gusta tocar el violonchelo. Pienso que musica tiene la habilidad conectar personas y culturas muy diferentes. Quiero aprender mas de las personas de Caral y que tipo de musica ellos tocan. Tambien quiero aprender el rol de musica para ellos. 
+**Olenka Jain:** Yo soy una estudiante de doctorado en Princeton. Estudio biofísica en la universidad de Princeton. Quiero aprender mas de civilizaciones en Sudamérica y el rol de musica en los civilizaciones mas mayores. Soy violonchelista y me gusta mucho tocar el violonchelo. Pienso la música tiene la habilidad conectar a personas y culturas muy diferentes. Quiero aprender mas de las personas de Caral y que tipo de musica ellos tocan. También quiero aprender el rol de musica para ellos. 
 
 **Qiwei Yu:** Soy un estudiante de doctorado en biofísica en la universidad de Princeton. Quiero investigar las culturas en Sudamérica y en el mundo hispánico. 
 
