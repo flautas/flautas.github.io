@@ -45,4 +45,4 @@ Los instrumentos antiguos incluián 32 flautas traversas y 3 flautas de pan que 
 
 En resumen, los instrumentos de caral evidencian la complejidad y diversidad de la civilización caral que tiene cinco mil años de antigüedad. El uso de instrumentos, en especial el uso de las flautas tiene una historia muy antigua que se preserva hasta hoy. 
 
-[![Flautas Video](https://img.youtube.com/vi/UTHDyP7689k/0.jpg)](https://www.youtube.com/watch?v=UTHDyP7689k)
+[![VIDEO TUTORIAL CARAL, UN MUNDO POR DESCUBRIR PARA FLAUTAS DE CARAL](https://img.youtube.com/vi/UTHDyP7689k/0.jpg)](https://www.youtube.com/watch?v=UTHDyP7689k)
