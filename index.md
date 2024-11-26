@@ -4,7 +4,7 @@ layout: default
 
 ## La descripción de las flautas
 
-Las flautas del valle Caral, Perú están hechos con huesos de pelícano (incluyendo los húmeros, cúbitos y radios; figure 1). Hay 32 flautas en total: entre los artefactos, 10 tienen fisuras y 7 son incompletos y 15 son completos. En el exterior de las flautas, hay muchos diseños realistas. Unas flautas tienen los diseños de los monos, y los pájaros, y las serpientes. Otros tienen dibujos de personas. Un grupo de flautas tiene decoración misma. En el interior de una flauta, hay un tabique de arcilla que tiene forma triangular. Los tabiques son fundamentales para hacer sonar la música. Réplicas de estas flautas (para ejemplo, de plástico) resultan ser buenos instrumentos. ¡Hay videos de YouTube que enseñan a tocar las flautas de huesos! 
+Las flautas del valle Caral, Perú están hechas con huesos de pelícano (incluyendo los húmeros, cúbitos y radios; figure 1). Hay 32 flautas en total: entre los artefactos, 10 tienen fisuras y 7 son incompletos y 15 son completos. En el exterior de las flautas, hay muchos diseños realistas. Unas flautas tienen los diseños de los monos, y los pájaros, y las serpientes. Otros tienen dibujos de personas. Un grupo de flautas tiene misma decoración. En el interior de una flauta, hay un tabique de arcilla que tiene forma triangular. Los tabiques son fundamentales para hacer sonar la música. Réplicas de estas flautas (por ejemplo, de plástico) resultan ser buenos instrumentos. ¡Hay videos de YouTube que enseñan a tocar las flautas de huesos! 
  
  <p align="center">
   <img src="/assets/img/p2_f2.png" alt="" width="80%">
@@ -12,7 +12,7 @@ Las flautas del valle Caral, Perú están hechos con huesos de pelícano (incluy
 
 <p align="center"><b>Figure 1:</b> Las flautas estaba hechas de huméros, cúbitos, y radios de pelícanos.</p>
 
-Estas flautas están encontradas en la Ciudad Sagrada en el valle Caral en Perú. Este sitio arqueológico tiene 5000 años de antigüedad. Están cerca de un anfiteatro en la ciudad. ¿Por qué hay un anfiteatro en la ciudad antigua? Porque esta civilización es muy prestigia y rica. Las flautas y su decoración representan las personas que viven en la región y los arqueológicos piensan que estos artefactos son muy importantes para ceremonias.
+Estas flautas fueron encontradas en la Ciudad Sagrada en el valle Caral en Perú. Este sitio arqueológico tiene  5000 años de antigüedad. Están cerca de un anfiteatro en la ciudad. ¿Por qué hay un anfiteatro en la ciudad antigua? Porque esta civilización es muy prestigiosa y rica. Las flautas y su decoración representan las personas que viven en la región y los arqueólogos piensan que estos artefactos son muy importantes para ceremonias.
 
 <p align="center">
   <img src="/assets/img/p2_f3.png" alt="" width="80%">
